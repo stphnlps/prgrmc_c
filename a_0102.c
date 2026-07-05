@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// crie um programa em C que gerencia o cadastro de alunos em uma turma
 main() {
     int idade, matricula;
     float altura;
